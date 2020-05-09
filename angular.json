@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "UnitTestingTutoNg"
+    }
+  },
+  "defaultProject": "UnitTestingTutoNg",
+  "cli": {
+    "analytics": false
+  }
 }
